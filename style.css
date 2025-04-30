@@ -1,0 +1,16 @@
+body {
+    font-family: 'Noto Serif Bengali', serif;
+    background-color: #f9f4ef;
+    color: #111;
+    padding: 20px;
+    line-height: 1.8;
+  }
+  h1 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+  }
+  h2 {
+    font-size: 1.4em;
+    color: #444;
+  }
+  
